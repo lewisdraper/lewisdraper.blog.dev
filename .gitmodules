@@ -1,0 +1,4 @@
+[submodule "lewisdraperblog/public"]
+	path = lewisdraperblog/public
+	url = https://github.com/lewisdraper/lewisdraper.github.io.git
+	branch = main
